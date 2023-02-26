@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rahultodo/static/css/main.f554a705.css",
+    "main.js": "/rahultodo/static/js/main.5db79535.js",
+    "index.html": "/rahultodo/index.html",
+    "main.f554a705.css.map": "/rahultodo/static/css/main.f554a705.css.map",
+    "main.5db79535.js.map": "/rahultodo/static/js/main.5db79535.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f554a705.css",
+    "static/js/main.5db79535.js"
+  ]
+}
